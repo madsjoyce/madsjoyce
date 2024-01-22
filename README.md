@@ -8,9 +8,11 @@ I'm **Madeleine Joyce**, a detail-oriented individual with a diverse background 
 - 🌐 Strong analytical mindset with a background in Anthropology and Religion, fostering cultural sensitivity and adaptability.
 - 📈 Keen interest in data-driven decision-making, data cleaning, and transforming insights into actionable strategies.
 
-### 🔍 Project Highlights:
-- 📉 Conducted comprehensive data analysis on a loan approvals dataset, showcasing skills in data cleaning, imputation, and outlier removal.
-- 📊 Developed a Power BI report for a company's loan portfolio, contributing to high-level business summaries.
+### 🔍 Projects:
+- 🎬 Created a Movie Assistant project using Python to help users select a film from an IMDB list of movies.
+- 🎮 Developed a fun Hangman game project showcasing my programming skills (check it out [here](https://github.com/madsjoyce/hangman.git))
+- 📉 Conducted comprehensive data analysis on a loan approvals dataset, showcasing skills in data cleaning, imputation, and outlier removal (check it out [here](https://github.com/madsjoyce/Exploratory-Data-Analysis--Customer-Loans-in-Finance.git_))
+- 📊 Developed a Power BI report for a company's loan portfolio, contributing to high-level business summaries (check it out [here](https://github.com/madsjoyce/Data-Analytics-Power-BI-Report.git))
 
 ### 🌱 Current Learning Focus:
 - Exploring advanced data science techniques and machine learning applications.
